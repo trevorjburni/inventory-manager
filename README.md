@@ -19,7 +19,8 @@ To use this app, click the heroku link and just click log in to see the main pag
 
 # Contributors
 
+- Trevor Burningham
 - Kellie Hunsaker
 - Curtis Allen
 - Stephen Green
-- Trevor Burningham
+
