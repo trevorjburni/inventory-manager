@@ -13,7 +13,7 @@ This app is designed for a specific hair salon, to help them keep track of produ
 - CSS
 - Heroku
 - Passport Authentication (incomplete)
-and more..
+- and more..
 
 # Contributors
 
