@@ -14,6 +14,10 @@ From there you can view the inventory, add and subtract inventory.
 
 ![View Inventory](assets/readme-pictures/lisa-grace-view-inventory.PNG)
 
+There are a couple of ways to add or subtract quantities of product from the inventory. From the main menu or from the view inventory page. After you on the add or subtract inventory buttons, it will take you to a screen that looks like the pictures below. You can then enter in an item number and the quantity change.
+
+![Add orSubtract Inventory](assets/readme-pictures/lisa-grace-add-inventory.PNG)
+
 # Technology Used
 
 - JavaScript
